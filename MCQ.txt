@@ -1,0 +1,22 @@
+1. a) 32 and 64
+2. c) long to int
+3. a) -127
+4. b) int[] A = {1,2,3};
+5. b) Object
+6. b) bc
+7. d) -1
+8. b) void
+9. b) 3.0
+10. a)stack
+11. d) 6
+12. d) Zero fill right shift
+13 b) Use of pointer
+14. c) protected
+15. b) compile error
+16. b) private
+17. a) the condition to end the recursion
+18. a) 5 4 3 2 1
+19. a)/* comments */
+20. a) final
+
+
